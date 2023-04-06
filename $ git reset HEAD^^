@@ -1,0 +1,48 @@
+[33mcommit def9eeb9b4bc5afd0c60af1beb0a64a0c105ac08[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: subin <alstnqls1025@gmail.com>
+Date:   Thu Apr 6 20:27:00 2023 +0900
+
+    첫 테스트
+
+[33mcommit a3816df31cdfc420e53550809b4d0b3b1655cfcf[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: makegyun <129833367+makegyun@users.noreply.github.com>
+Date:   Thu Apr 6 20:14:49 2023 +0900
+
+    removed
+
+[33mcommit 1c0144e632768203455de31c65464df1d1a850b5[m
+Author: makegyun <129833367+makegyun@users.noreply.github.com>
+Date:   Thu Apr 6 20:14:32 2023 +0900
+
+    test.txt
+
+[33mcommit 9ce09907fbd169e60b58847150d48951047e8bce[m
+Merge: 5194760 477d0ac
+Author: makegyun <129833367+makegyun@users.noreply.github.com>
+Date:   Thu Apr 6 20:13:59 2023 +0900
+
+    Merge branch 'main' of https://github.com/likelion-scnu/git-training-be-pythonB
+
+[33mcommit 51947600d209e0b0f36ffdf6770572b75642e770[m
+Author: jmg6287@naver.com <jeongmingyun@jeongmingyuns-MacBook-Air.local>
+Date:   Thu Apr 6 20:08:23 2023 +0900
+
+    hi
+
+[33mcommit 477d0acc13c91d20d7b1f2e55154099a5cf792e5[m
+Author: hyungjun123 <112327921+hyungjun123@users.noreply.github.com>
+Date:   Thu Apr 6 20:00:12 2023 +0900
+
+    github
+
+[33mcommit a5da76387852121668ba6d98f3adf78d47e04db6[m
+Author: hyungjun123 <112327921+hyungjun123@users.noreply.github.com>
+Date:   Thu Apr 6 19:59:31 2023 +0900
+
+    remove txt
+
+[33mcommit d7edf24fe56b8d7040c69ea2267c522cbc01f624[m
+Author: hyungjun123 <112327921+hyungjun123@users.noreply.github.com>
+Date:   Thu Apr 6 19:48:26 2023 +0900
+
+    test
